@@ -1,0 +1,19 @@
+# Generated molecular structures
+outputs/
+generated/
+temp/
+tmp/
+
+# Local Streamlit configuration
+.streamlit/
+
+# Model/cache files — future ML extension
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+
+# Environment/configuration
+.env
+.env.*
