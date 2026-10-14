@@ -4,6 +4,10 @@ A Streamlit-based cheminformatics application for molecular visualization, descr
 
 The application combines **RDKit**, **Open Babel**, **PubChem**, **py3Dmol**, and **Streamlit** in a single graphical interface.
 
+## Weblink
+
+https://molecularstructuretoolkit-fbxpsgpepzgz7go6udznll.streamlit.app/
+
 ---
 
 ## Features
@@ -46,9 +50,12 @@ Available image downloads:
 - high-resolution PNG
 
 The descriptors are calculated locally with **RDKit**.
-#### 2D drawing settings
+
+### 2D drawing settings
+
 Tune your parameter of choice. 
 For publication-grade image: Atom label font size = 45, Bond thickness = 5, Image width = 600, Image height = 600, High-res PNG = 3x
+
 ---
 
 ### 2. 3D Conformers
